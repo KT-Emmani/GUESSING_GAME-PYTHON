@@ -12,5 +12,5 @@ With the use of some built-in module like Random and Time to pick the number ran
 - f-string was used to add the variables such as correct_number and guess_count to the string in the print function.
 
 
-### Final Code
+### Final Result
 
