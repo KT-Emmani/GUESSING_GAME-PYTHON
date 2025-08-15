@@ -14,3 +14,15 @@ With the use of some built-in module like Random and Time to pick the number ran
 
 ### Final Result
 
+
+
+
+
+<img width="3000" height="1904" alt="Practice – Learn py 8_15_2025 10_22_56 AM" src="https://github.com/user-attachments/assets/0b55db75-dde6-477f-8b53-13a42ebbdfd7" />
+
+
+
+
+
+
+<img width="3000" height="1904" alt="Practice – C__Users_BOOK 2_Desktop_Data Analysis Projects_Python Code_Number Guessing Game py 8_15_2025 10_30_58 AM" src="https://github.com/user-attachments/assets/79835803-33f8-43bf-bdf7-66b1321cc0c6" />
